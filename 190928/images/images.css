@@ -1,0 +1,18 @@
+#mike_mccallum_small {
+  width: 200px;
+  height: 150px;
+}
+
+#mike_mccallum_medium {
+  width: 400px;
+  height: 300px;
+}
+
+#mike_mccallum_big {
+  width: 800px;
+  height: 600px;
+}
+
+body {
+  background-image: url("mike_mccallum.jpg");
+}
