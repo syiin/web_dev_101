@@ -1,0 +1,14 @@
+- .py files and modules
+  - cover generalising code for plotting
+- subplots and deeplearning
+  - image recognition with MNIST
+  - reading in images as numpy arrays and making multiple subplots
+  - revisit gradient descent and back propogation
+  - learn about convolutions
+  - write from scratch or use scikit learn? maybe even tensorflow?
+- decision trees/random forests
+  - how do decisions trees work?
+  - ensembling 
+- XGBoost 
+  - revisit in the context of what we'd learnt
+  - use SHAP scores
