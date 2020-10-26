@@ -12,3 +12,6 @@
 - XGBoost 
   - revisit in the context of what we'd learnt
   - use SHAP scores
+- Fix decision tree visualisation
+    - FileNotFoundError - WinError2 - install graphviz
+    - `ExecutableNotFound: failed to execute ['dot', '-Tpng'], make sure the Graphviz executables are on your systems' PATH`
